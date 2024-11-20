@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\authorization\\jwtuitls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:authorization\\jwtuitls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:models\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:models\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|c:\\workspace\\csharp\\software\\authenticationexample\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045B0F1-F34C-4279-BB77-467983A280B8}|WebApi.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T12:29:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Models\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Models\\AuthenticateResponse.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Models\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Models\\AuthenticateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:14:44.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Models\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AuthenticateRequest.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Models\\AuthenticateRequest.cs",
+              "RelativeToolTip": "Models\\AuthenticateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:12:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:11:21.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtUitls.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Authorization\\JwtUitls.cs",
+              "RelativeDocumentMoniker": "Authorization\\JwtUitls.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Authorization\\JwtUitls.cs",
+              "RelativeToolTip": "Authorization\\JwtUitls.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:48:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:22:39.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:18:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Helpers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Helpers\\AppSettings.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\Software\\AuthenticationExample\\Helpers\\AppSettings.cs",
+              "RelativeToolTip": "Helpers\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:30:12.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
